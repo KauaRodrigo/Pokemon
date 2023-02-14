@@ -1,0 +1,3 @@
+[submodule "Pokemon-FrontEnd"]
+	path = Pokemon-FrontEnd
+	url = https://github.com/KauaRodrigo/Pokemon-FrontEnd.git
